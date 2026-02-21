@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations,,,,,,,,,,,,,,,,
+C:\Users\Public\Documents\Altium\PCBSTM32\Project Outputs for PCBSTM32\Pick Place for STM_AIO.csv,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+========================================================================================================================,,,,,,,,,,,,,,,,
+File Design Information:,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Date:       15/01/26,,,,,,,,,,,,,,,,
+Time:       18:54,,,,,,,,,,,,,,,,
+Revision:   de9445f5d2cf0852e8239ccfc21a0fd7d5e0bf8f,,,,,,,,,,,,,,,,
+Variant:    No variations,,,,,,,,,,,,,,,,
+Units used: mm,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Designator,Comment,Layer,Footprint,Footprint Description,Center-X(mm),Center-Y(mm),Rotation,Description,Height(mm),Ref-X(mm),Ref-Y(mm),Pad-X(mm),Pad-Y(mm),Variation,Arrow Part Number,Capacitance
+C23,EMZS350ARA471MHA0G,TopLayer,FP-MZS-HA0-A-MFG,,12.5476mm,31.6560mm,270,CAP ALUM 470UF 20% 35V SMD,0.0000mm,12.5476mm,31.6560mm,12.5476mm,28.0060mm,Fitted,,470uF
+J11,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,86.1568mm,22.4482mm,270,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,86.8568mm,22.4482mm,86.1568mm,23.6982mm,Fitted,,
+C22,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",53.6956mm,34.4932mm,180,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,53.6956mm,34.4932mm,54.3206mm,34.4932mm,Fitted,,
+J10,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,2.6670mm,21.7370mm,270,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,3.3670mm,21.7370mm,2.6670mm,22.9870mm,Fitted,,
+R11,Sense R,TopLayer,RESC16080X45_RT0603-0_55_MFG,,82.4152mm,29.1084mm,180,"Fixed Resistor, Thin Film, 0.1W, 500ohm, 75V, 0.1% +/-Tol, 15ppm/Cel, Surface Mount, 0603",0.5500mm,82.4152mm,29.1084mm,83.2652mm,29.1084mm,Fitted,,
+J9,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,28.4480mm,57.0880mm,180,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,28.4480mm,56.3880mm,29.6980mm,57.0880mm,Fitted,,
+C13,220nF,TopLayer,CAPC1608X95X40LL15T15,"Chip Capacitor, 2-Leads, Body 1.60x0.80mm, IPC High Density",42.4942mm,17.0068mm,0,,0.9500mm,42.4942mm,17.0068mm,41.8942mm,17.0068mm,Fitted,,
+C10,10uF,TopLayer,FP-CC0603-0_15-0_95-IPC_B,,38.6846mm,12.5916mm,0,CAP CER 10UF 6.3V X5R 0603,0.0000mm,38.6846mm,12.5916mm,38.0086mm,12.5916mm,Fitted,,10uF
+U1,LIS2MDLTR,TopLayer,FP-LGA-12-DM00170568-MFG,,42.1680mm,14.4775mm,180,SENSOR MR I2C/SPI 12LGA,0.0000mm,42.1680mm,14.4775mm,42.9305mm,13.7275mm,Fitted,,
+J2,B4P-SHF-1AA(LF)(SN),TopLayer,FP-B4P-SHF-1AA_LF_SN-MFG,,42.6720mm,3.3640mm,0,CONN HEADER VERT 4POS 2.5MM,0.0000mm,42.6720mm,4.0640mm,38.9220mm,3.3640mm,Fitted,,
+Y1,ABM3B-8.000MHZ-B-4-Y-T,TopLayer,FP-ABM3B-MFG,,28.4480mm,30.4800mm,0,Crystal 8MHz ±30ppm 18pF SMD-4 5mm x 3.2mm,0.0000mm,28.4480mm,30.4800mm,26.4480mm,29.2800mm,Fitted,,
+U4,"TJA1051T/3,118",TopLayer,NXP-SOIC-8_L,"SOIC, 8-Leads, Body 5x4mm, Pitch 1.27mm, IPC High Density",28.4480mm,46.3550mm,360,"High-Speed CAN Transceiver, 3 to 5 V, 8-Pin SOIC (SOT96-1), RoHS, Tape and Reel",1.7500mm,28.4480mm,46.3550mm,26.5430mm,43.7300mm,Fitted,,
+U3,MPU-6050,TopLayer,IS-QFN-24_V,"QFN, 24-Leads, Body 4x4mm, Pitch 0.5mm, Thermal Pad 2.7x2.6mm",44.9780mm,49.5870mm,180,"3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel",0.9500mm,44.9780mm,49.5870mm,46.9780mm,48.3370mm,Fitted,,
+U2,AMS1117-3.3,TopLayer,FP-AMS1117-IPC_C,,74.3752mm,18.3458mm,270,"LDO Voltage Regulators 1A, 3.3V",0.0000mm,74.3752mm,18.3458mm,76.6652mm,21.6408mm,Fitted,,
+R10,4.7K,TopLayer,FP-TFCR0603-MFG,,44.9580mm,11.0733mm,270,"RES Thin Film,  4.7kO, 1%, 0.1W, 50ppm/°C, 0603",0.0000mm,44.9580mm,11.0733mm,44.9580mm,11.8733mm,Fitted,,
+R9,4.7K,TopLayer,FP-TFCR0603-MFG,,48.6410mm,18.7706mm,90,"RES Thin Film,  4.7kO, 1%, 0.1W, 50ppm/°C, 0603",0.0000mm,48.6410mm,18.7706mm,48.6410mm,17.9706mm,Fitted,,
+R8,4.7K,TopLayer,FP-TFCR0603-MFG,,49.4323mm,45.5930mm,90,"RES Thin Film,  4.7kO, 1%, 0.1W, 50ppm/°C, 0603",0.0000mm,49.4323mm,45.5930mm,49.4323mm,44.7930mm,Fitted,,
+R7,4.7K,TopLayer,FP-TFCR0603-MFG,,51.6865mm,45.5550mm,90,"RES Thin Film,  4.7kO, 1%, 0.1W, 50ppm/°C, 0603",0.0000mm,51.6865mm,45.5550mm,51.6865mm,44.7550mm,Fitted,,
+R6,Resistor 10k +/-1% 0603 100 mW,TopLayer,RESC1608X55X25ML10T15,"Chip Resistor, 2-Leads, Body 1.70x0.90mm, IPC Low Density",45.7200mm,40.3980mm,270,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)",0.5500mm,45.7200mm,40.3980mm,45.7200mm,41.1480mm,Fitted,,
+R5,Resistor 10k +/-1% 0603 100 mW,TopLayer,RESC1608X55X25ML10T15,"Chip Resistor, 2-Leads, Body 1.70x0.90mm, IPC Low Density",6.8700mm,39.7764mm,180,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)",0.5500mm,6.8700mm,39.7764mm,7.6200mm,39.7764mm,Fitted,,
+R4,Resistor 10k +/-1% 0603 100 mW,TopLayer,RESC1608X55X25ML10T15,"Chip Resistor, 2-Leads, Body 1.70x0.90mm, IPC Low Density",35.6616mm,28.3344mm,270,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)",0.5500mm,35.6616mm,28.3344mm,35.6616mm,29.0844mm,Fitted,,
+R3,Resistor 10k +/-1% 0603 100 mW,TopLayer,RESC1608X55X25ML10T15,"Chip Resistor, 2-Leads, Body 1.70x0.90mm, IPC Low Density",74.9420mm,41.5290mm,0,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)",0.5500mm,74.9420mm,41.5290mm,74.1920mm,41.5290mm,Fitted,,
+R2,Resistor 120R +/-5 % 0603 0.1 W,TopLayer,RESC0603(1608)_L,"Chip Resistor, Body 1.6x0.8mm, IPC High Density",28.4480mm,51.8160mm,180,"Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603",0.6000mm,28.4480mm,51.8160mm,29.1480mm,51.8160mm,Fitted,,
+R1,Resistor 10k +/-1% 0603 100 mW,TopLayer,RESC1608X55X25ML10T15,"Chip Resistor, 2-Leads, Body 1.70x0.90mm, IPC Low Density",83.7184mm,12.5222mm,90,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)",0.5500mm,83.7184mm,12.5222mm,83.7184mm,11.7722mm,Fitted,,
+Q2,IRF540NSTRLPBF,TopLayer,FP-PG-TO263-3-MFG,,9.0170mm,49.0220mm,90,IRF540NSTRLPBF Transistor MOSFET N Channel 100 Volt 33 Amp 3-Pin 2+ Tab D2pak Tape And Reel,0.0000mm,9.0170mm,50.2920mm,6.4770mm,43.3070mm,Fitted,,
+Q1,IRF540NSTRLPBF,TopLayer,FP-PG-TO263-3-MFG,,82.8040mm,47.7520mm,90,IRF540NSTRLPBF Transistor MOSFET N Channel 100 Volt 33 Amp 3-Pin 2+ Tab D2pak Tape And Reel,0.0000mm,82.8040mm,49.0220mm,80.2640mm,42.0370mm,Fitted,,
+P2,Header 8,TopLayer,HDR1X8,Connector; Header; 8 Position,67.6910mm,2.5400mm,0,"Header, 8-Pin",0.0000mm,58.8010mm,2.5400mm,58.8010mm,2.5400mm,Fitted,,
+P1,Header 8,TopLayer,HDR1X8,Connector; Header; 8 Position,45.5930mm,57.7850mm,0,"Header, 8-Pin",0.0000mm,36.7030mm,57.7850mm,36.7030mm,57.7850mm,Fitted,,
+J8,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,19.4310mm,57.0880mm,180,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,19.4310mm,56.3880mm,20.6810mm,57.0880mm,Fitted,,
+J7,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,2.6924mm,33.8020mm,270,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,3.3924mm,33.8020mm,2.6924mm,35.0520mm,Fitted,,
+J6,B4P-SHF-1AA(LF)(SN),TopLayer,FP-B4P-SHF-1AA_LF_SN-MFG,,28.0670mm,3.3640mm,0,CONN HEADER VERT 4POS 2.5MM,0.0000mm,28.0670mm,4.0640mm,24.3170mm,3.3640mm,Fitted,,
+J5,B2P-SHF-1AA(LF)(SN),TopLayer,FP-B2P-SHF-1AA_LF_SN-MFG,,73.8320mm,55.5610mm,0,2.5mm 2 1 ???? Straight Solder 250VDC / 250VAC 3A 85? -25? Tin-Lead Over Copper 5.6mm 9.2mm,0.0000mm,73.8320mm,56.2610mm,72.5820mm,55.5610mm,Fitted,,
+J4,B4P-SHF-1AA(LF)(SN),TopLayer,FP-B4P-SHF-1AA_LF_SN-MFG,,14.1170mm,4.6990mm,180,CONN HEADER VERT 4POS 2.5MM,0.0000mm,14.1170mm,3.9990mm,17.8670mm,4.6990mm,Fitted,,
+J3,B4P-SHF-1AA(LF)(SN),TopLayer,FP-B4P-SHF-1AA_LF_SN-MFG,,63.7540mm,56.1990mm,180,CONN HEADER VERT 4POS 2.5MM,0.0000mm,63.7540mm,55.4990mm,67.5040mm,56.1990mm,Fitted,,
+J1,473460001,TopLayer,FP-473460001-MFG,,87.2144mm,31.3722mm,90,CONN RCPT USB2.0 MICRO B SMD R/A,0.0000mm,88.1944mm,31.3722mm,85.8844mm,30.0722mm,Fitted,,
+IC1,STM32F103C8T6TR,TopLayer,QFP50P900X900X160-48N,,46.1010mm,30.9880mm,270,Integrated Circuit,0.0000mm,46.1010mm,30.9880mm,41.8630mm,33.7380mm,Fitted,STM32F103C8T6TR,
+FB1,120R,TopLayer,FB_0603,,72.8218mm,29.1592mm,180,Ferrite Bead SMD 0603,0.0000mm,72.8218mm,29.1592mm,73.5718mm,29.1592mm,Fitted,,
+D4,GREEN,TopLayer,LED_0603_GREEN,,80.4418mm,13.2334mm,180,LED 0603 GREEN SMD,0.0000mm,80.4418mm,13.2334mm,79.6918mm,13.2334mm,Fitted,,
+D3,1N5819HW-7-F,TopLayer,FP-SOD123-IPC_A,,19.4832mm,50.8254mm,180,DIODE SCHOTTKY 40V 1A SOD123,0.0000mm,19.4832mm,50.8254mm,21.1836mm,50.8254mm,Fitted,,110pF
+D2,1N5819HW-7-F,TopLayer,FP-SOD123-IPC_A,,73.5330mm,49.2760mm,0,DIODE SCHOTTKY 40V 1A SOD123,0.0000mm,73.5330mm,49.2760mm,71.8326mm,49.2760mm,Fitted,,110pF
+D1,D_TVS_0402,TopLayer,D_0402,,79.6290mm,28.6084mm,90,Diode TVS / ESD 0402,0.0000mm,79.6290mm,28.6084mm,79.6290mm,28.1084mm,Fitted,,
+C21,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",35.0112mm,31.3182mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,35.0112mm,31.3182mm,34.3862mm,31.3182mm,Fitted,,
+C20,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",41.5544mm,11.2233mm,90,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,41.5544mm,11.2233mm,41.5544mm,10.5983mm,Fitted,,
+C19,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",39.2530mm,33.8008mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,39.2530mm,33.8008mm,38.6280mm,33.8008mm,Fitted,,
+C18,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",42.8090mm,37.3380mm,180,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,42.8090mm,37.3380mm,43.4340mm,37.3380mm,Fitted,,
+C17,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",49.2760mm,24.7587mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,49.2760mm,24.7587mm,48.6510mm,24.7587mm,Fitted,,
+C16,2.2uF,TopLayer,FP-CL10-IPC_A,,57.4294mm,35.3060mm,0,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,57.4294mm,35.3060mm,56.6024mm,35.3060mm,Fitted,,2.2uF
+C15,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",39.1922mm,29.9974mm,270,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,39.1922mm,29.9974mm,39.1922mm,30.6224mm,Fitted,,
+C14,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",38.9138mm,14.6050mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,38.9138mm,14.6050mm,38.2888mm,14.6050mm,Fitted,,
+C12,2.2uF,TopLayer,FP-CL10-IPC_A,,32.7152mm,27.1384mm,270,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,32.7152mm,27.1384mm,32.7152mm,27.9654mm,Fitted,,2.2uF
+C11,2.2uF,TopLayer,FP-CL10-IPC_A,,26.5430mm,26.2748mm,270,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,26.5430mm,26.2748mm,26.5430mm,27.1018mm,Fitted,,2.2uF
+C9,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",28.8544mm,41.6560mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,28.8544mm,41.6560mm,28.2294mm,41.6560mm,Fitted,,
+C8,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",40.8487mm,50.8820mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,40.8487mm,50.8820mm,40.2237mm,50.8820mm,Fitted,,
+C7,Capacitor 100 nF +/-10% 50 V 0603,TopLayer,CAPC1608X90X40NL10T20,"Chip Capacitor, 2-Leads, Body 1.70x0.90mm, IPC Medium Density",43.4440mm,54.0766mm,0,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)",0.9000mm,43.4440mm,54.0766mm,42.8190mm,54.0766mm,Fitted,,
+C6,10nF,TopLayer,CAP_0603,,46.9900mm,53.6194mm,0,Capacitor SMD 0603,0.0000mm,46.9900mm,53.6194mm,46.2400mm,53.6194mm,Fitted,,
+C5,2.2nF,TopLayer,FP-CL10-IPC_C,,43.4420mm,45.8577mm,180,Cap Ceramic 2.2nF 50V X7R ±10% Pad SMD 0603 +125°C T/R,0.0000mm,43.4420mm,45.8577mm,44.0690mm,45.8577mm,Fitted,,2.2nF
+C4,22uF,TopLayer,FP-CL10-IPC_B,,77.3176mm,12.4968mm,270,Cap Ceramic 22uF 16V X5R ±20% Pad SMD 0603 +85°C T/R,0.0000mm,77.3176mm,12.4968mm,77.3176mm,13.2238mm,Fitted,,22uF
+C3,2.2uF,TopLayer,FP-CL10-IPC_A,,73.0250mm,24.0284mm,0,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,73.0250mm,24.0284mm,72.1980mm,24.0284mm,Fitted,,2.2uF
+C2,2.2uF,TopLayer,FP-CL10-IPC_A,,73.0250mm,26.5176mm,0,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,73.0250mm,26.5176mm,72.1980mm,26.5176mm,Fitted,,2.2uF
+C1,2.2uF,TopLayer,FP-CL10-IPC_A,,76.9620mm,28.1686mm,270,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,0.0000mm,76.9620mm,28.1686mm,76.9620mm,28.9956mm,Fitted,,2.2uF

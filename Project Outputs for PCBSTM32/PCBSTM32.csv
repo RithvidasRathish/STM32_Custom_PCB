@@ -1,0 +1,27 @@
+Line #,Name,Description,Designator,Revision ID,Revision Status,Quantity,Manufacturer 1,Manufacturer Part Number 1,Manufacturer Lifecycle 1,Supplier 1,Supplier Part Number 1,Supplier Unit Price 1,Supplier Subtotal 1
+,,,,,,,,,,,,,
+,10n,Capacitor SMD 0603,C6,,,1,,,,,,,
+,120R,Ferrite Bead SMD 0603,FB1,,,1,,,,,,,
+,D_TVS_0402,Diode TVS / ESD 0402,D1,,,1,,,,,,,
+,GREEN,LED 0603 GREEN SMD,"D4, D5",,,2,,,,,,,
+,MEM2067-02-180-00-A,Connector,J5,,,1,,,,,,,
+,STM32F103C8T6TR,Integrated Circuit,IC1,,,1,,,,,,,
+,MPU-6050,"3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel",U3,CMP-1753-00002-2,Up to date,1,InvenSense,MPU-6050,Not Recommended for New Design,Farnell,1864742,9.91,9.91
+,AMS1117-3.3,"LDO Voltage Regulators 1A, 3.3V",U2,CMP-209535-000001-1,Up to date,1,Advanced Monolithic Systems,AMS1117-3.3,Unknown,,,,
+,BMM150,SENSOR FLIPCORE/HALL SPI 12WLCSP,U1,CMP-191063-000001-2,Up to date,1,Bosch Sensortec,BMM150,Unknown,,,,
+,MCP2551-I/SN,"High-Speed CAN Transceiver,
+ 1 Mb/s, 4.5 to 5.5 V, 8-Pin SOIC (SN), Industrial Temperature, RoHS, Tube",U4,CMP-0186-00138-3,Up to date,1,Microchip,MCP2551-I/SN,Unknown,,,,
+,1N5819HW-7-F,DIODE SCHOTTKY 40V 1A SOD123,"D2, D3",CMP-0303-00003-3,Up to date,2,Diodes Inc.,1N5819HW-7-F,Volume Production,Newark,51R7874,0.064,0.128
+,7M-32.000MEEQ-T,"Crystal 32MHz, 10ppm, 10pF, 50O",Y1,CMP-18717-000043-1,Up to date,1,TXC,7M-32.000MEEQ-T,Volume Production,Arrow Electronics,7M-32.000MEEQ-T,0.5087,0.5087
+,473460001,CONN RCPT USB2.0 MICRO B SMD R/A,J1,CMP-2000-05246-2,Up to date,1,Molex,47346-0001,Volume Production,RS (Formerly Allied Electronics),70266948,0.36,0.36
+,B4P-SHF-1AA(LF)(SN),CONN HEADER VERT 4POS 2.5MM,"J2, J3, J4",CMP-17439-000200-1,Up to date,3,JST,B4P-SHF-1AA(LF)(SN),Volume Production,Arrow Electronics,B4P-SHF-1AA (LF)(SN),0.1374,0.4122
+,Capacitor 100 nF +/-10% 50 V 0603,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)","C7, C8, C9, C14, C15, C17, C18, C19, C20, C21",CMP-001-00017-6,Up to date,10,KYOCERA AVX,06035C104KAT2A,Volume Production,Newark,54K2412,0.008,0.08
+,CL10A225KO8NNNC,Cap Ceramic 2.2uF 16V X5R ±10% Pad SMD 0603 +85°C T/R,"C1, C2, C3, C11, C12, C13, C16",CMP-13271-000835-1,Up to date,7,Samsung Electro-Mechanics,CL10A225KO8NNNC,Volume Production,DigiKey,1276-1040-1-ND,0.009,0.09
+,CL10A226MO7JZNC,Cap Ceramic 22uF 16V X5R ±20% Pad SMD 0603 +85°C T/R,C4,CMP-13271-002755-1,Up to date,1,Samsung Electro-Mechanics,CL10A226MO7JZNC,Volume Production,DigiKey,1276-7076-1-ND,0.59,0.59
+,CL10B222KB8NNNC,Cap Ceramic 2.2nF 50V X7R ±10% Pad SMD 0603 +125°C T/R,C5,CMP-13271-002956-1,Up to date,1,Samsung Electro-Mechanics,CL10B222KB8NNNC,Volume Production,DigiKey,1276-1110-1-ND,0.1,0.1
+,GRM188R61C106MA73J,"Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 16V",C10,CMP-06035-009669-1,Up to date,1,Murata,GRM188R61C106MA73J,Volume Production,Mouser,81-GRM188R61C106MA3J,0.23,0.23
+,IRF540NSTRLPBF,IRF540NSTRLPBF Transistor MOSFET N Channel 100 Volt 33 Amp 3-Pin 2+ Tab D2pak Tape And Reel,"Q1, Q2",CMP-00196-65873407-1,Up to date,2,Infineon,IRF540NSTRLPBF,Volume Production,RS (Formerly Allied Electronics),70017673,0.39,0.78
+,Resistor 10k +/-1% 0603 100 mW,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","R1, R3, R4, R5, R6",CMP-009-00017-5,Up to date,5,Vishay,CRCW060310K0FKEA,Volume Production,Newark,61M5335,0.011,0.055
+,Resistor 120R +/-5 % 0603 0.1 W,"Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603",R2,CMP-009-00176-3,Up to date,1,Panasonic,ERJ-3GEYJ121V,Volume Production,Newark,65T8564,0.003,0.003
+,STM32F103C8T6,"ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tray",U?,CMP-0237-00215-3,Up to date,1,STMicroelectronics,STM32F103C8T6,Volume Production,Arrow Electronics,STM32F103C8T6,2.54,2.54
+,STM32F103C8T6TR,"ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tape and Reel",U?,CMP-0237-00216-3,Up to date,1,STMicroelectronics,C8734,Volume Production,Newark,C8734,4.53,4.53
